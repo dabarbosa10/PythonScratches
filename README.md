@@ -1,1 +1,2 @@
 # PythonScratches
+Practicing Python programming
